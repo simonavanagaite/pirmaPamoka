@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\net5.0\PirmaPamoka.exe
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\net5.0\PirmaPamoka.deps.json
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\net5.0\PirmaPamoka.runtimeconfig.json
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\net5.0\PirmaPamoka.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\net5.0\PirmaPamoka.dll
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\net5.0\ref\PirmaPamoka.dll
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\bin\Debug\net5.0\PirmaPamoka.pdb
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\net5.0\PirmaPamoka.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\net5.0\PirmaPamoka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\net5.0\PirmaPamoka.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\net5.0\PirmaPamoka.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\net5.0\PirmaPamoka.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\net5.0\PirmaPamoka.dll
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\net5.0\ref\PirmaPamoka.dll
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\net5.0\PirmaPamoka.pdb
+C:\Users\Lenovo\Documents\pirmaPamoka\PirmaPamoka\PirmaPamoka\obj\Debug\net5.0\PirmaPamoka.genruntimeconfig.cache
